@@ -1,0 +1,7 @@
+D:\Projects\Pet\C#\GeksoFileLib\GeksoFileLib\bin\Release\GeksoFileLib.dll
+D:\Projects\Pet\C#\GeksoFileLib\GeksoFileLib\bin\Release\GeksoFileLib.pdb
+D:\Projects\Pet\C#\GeksoFileLib\GeksoFileLib\obj\Release\GeksoFileLib.csproj.CoreCompileInputs.cache
+D:\Projects\Pet\C#\GeksoFileLib\GeksoFileLib\obj\Release\GeksoFileLib.dll
+D:\Projects\Pet\C#\GeksoFileLib\GeksoFileLib\obj\Release\GeksoFileLib.pdb
+D:\Projects\Pet\C#\TCP_Server\GeksoFileLib.dll
+D:\Projects\Pet\C#\TCP_Server\GeksoFileLib.pdb

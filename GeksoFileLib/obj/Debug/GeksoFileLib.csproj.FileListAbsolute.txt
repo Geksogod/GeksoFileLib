@@ -1,0 +1,6 @@
+D:\Projects\Pet\C#\GeksoFileLib\GeksoFileLib\bin\Debug\GeksoFileLib.dll
+D:\Projects\Pet\C#\GeksoFileLib\GeksoFileLib\bin\Debug\GeksoFileLib.pdb
+D:\Projects\Pet\C#\GeksoFileLib\GeksoFileLib\obj\Debug\GeksoFileLib.csprojAssemblyReference.cache
+D:\Projects\Pet\C#\GeksoFileLib\GeksoFileLib\obj\Debug\GeksoFileLib.csproj.CoreCompileInputs.cache
+D:\Projects\Pet\C#\GeksoFileLib\GeksoFileLib\obj\Debug\GeksoFileLib.dll
+D:\Projects\Pet\C#\GeksoFileLib\GeksoFileLib\obj\Debug\GeksoFileLib.pdb
